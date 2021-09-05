@@ -1,0 +1,16 @@
+C:\Users\mural\RiderProjects\Algorithms\Algorithms\bin\Debug\net5.0\Algorithms.exe
+C:\Users\mural\RiderProjects\Algorithms\Algorithms\bin\Debug\net5.0\Algorithms.deps.json
+C:\Users\mural\RiderProjects\Algorithms\Algorithms\bin\Debug\net5.0\Algorithms.runtimeconfig.json
+C:\Users\mural\RiderProjects\Algorithms\Algorithms\bin\Debug\net5.0\Algorithms.runtimeconfig.dev.json
+C:\Users\mural\RiderProjects\Algorithms\Algorithms\bin\Debug\net5.0\Algorithms.dll
+C:\Users\mural\RiderProjects\Algorithms\Algorithms\bin\Debug\net5.0\ref\Algorithms.dll
+C:\Users\mural\RiderProjects\Algorithms\Algorithms\bin\Debug\net5.0\Algorithms.pdb
+C:\Users\mural\RiderProjects\Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.csprojAssemblyReference.cache
+C:\Users\mural\RiderProjects\Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mural\RiderProjects\Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.AssemblyInfoInputs.cache
+C:\Users\mural\RiderProjects\Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.AssemblyInfo.cs
+C:\Users\mural\RiderProjects\Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\mural\RiderProjects\Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.dll
+C:\Users\mural\RiderProjects\Algorithms\Algorithms\obj\Debug\net5.0\ref\Algorithms.dll
+C:\Users\mural\RiderProjects\Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.pdb
+C:\Users\mural\RiderProjects\Algorithms\Algorithms\obj\Debug\net5.0\Algorithms.genruntimeconfig.cache

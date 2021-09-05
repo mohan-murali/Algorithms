@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mural\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mural\\.nuget\\packages"
+    ]
+  }
+}
