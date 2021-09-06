@@ -20,7 +20,7 @@ namespace Algorithms.Sort
             var i = 0;
             var j = 0;
 
-            while (i < left.Count && j < left.Count)
+            while (i < left.Count && j < right.Count)
             {
                 if (right[j] < left[i])
                 {
@@ -53,26 +53,18 @@ namespace Algorithms.Sort
             }
             var mid = arr.Count / 2;
             
-            Console.WriteLine($"The Mid value is {mid}");
-
             var left = new List<int>();
-            Console.Write("The values in left array are");
             for (var i = 0; i < mid; i++)
             {
                 left.Add(arr[i]);
-                Console.Write($" {arr[i]} , and");
             }
-            Console.WriteLine();
 
             var right = new List<int>();
-            Console.Write("The values in right array are ");
 
             for (var i = mid; i < arr.Count; i++)
             {
                 right.Add(arr[i]);
-                Console.Write($" {arr[i]} , and");
             }
-            Console.WriteLine();
 
             var newLeft = Sort(left);
             var newRight = Sort(right);

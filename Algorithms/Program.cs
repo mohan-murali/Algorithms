@@ -7,8 +7,8 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            // TestSort.Test(BubbleSort.Sort, "Bubble Sort");
-            // TestSort.Test(SelectionSort.Sort, "Selection Sort");
+            TestSort.Test(BubbleSort.Sort, "Bubble Sort");
+            TestSort.Test(SelectionSort.Sort, "Selection Sort");
             TestSort.Test(MergeSort.Sort, "Merge Sort");
         }
     }
