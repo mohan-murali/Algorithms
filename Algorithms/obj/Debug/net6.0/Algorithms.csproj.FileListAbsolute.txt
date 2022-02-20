@@ -1,0 +1,15 @@
+/home/mohan/Projects/Algorithms/Algorithms/obj/Debug/net6.0/Algorithms.csproj.AssemblyReference.cache
+/home/mohan/Projects/Algorithms/Algorithms/obj/Debug/net6.0/Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohan/Projects/Algorithms/Algorithms/obj/Debug/net6.0/Algorithms.AssemblyInfoInputs.cache
+/home/mohan/Projects/Algorithms/Algorithms/obj/Debug/net6.0/Algorithms.AssemblyInfo.cs
+/home/mohan/Projects/Algorithms/Algorithms/obj/Debug/net6.0/Algorithms.csproj.CoreCompileInputs.cache
+/home/mohan/Projects/Algorithms/Algorithms/bin/Debug/net6.0/Algorithms
+/home/mohan/Projects/Algorithms/Algorithms/bin/Debug/net6.0/Algorithms.deps.json
+/home/mohan/Projects/Algorithms/Algorithms/bin/Debug/net6.0/Algorithms.runtimeconfig.json
+/home/mohan/Projects/Algorithms/Algorithms/bin/Debug/net6.0/Algorithms.dll
+/home/mohan/Projects/Algorithms/Algorithms/bin/Debug/net6.0/Algorithms.pdb
+/home/mohan/Projects/Algorithms/Algorithms/obj/Debug/net6.0/Algorithms.dll
+/home/mohan/Projects/Algorithms/Algorithms/obj/Debug/net6.0/refint/Algorithms.dll
+/home/mohan/Projects/Algorithms/Algorithms/obj/Debug/net6.0/Algorithms.pdb
+/home/mohan/Projects/Algorithms/Algorithms/obj/Debug/net6.0/Algorithms.genruntimeconfig.cache
+/home/mohan/Projects/Algorithms/Algorithms/obj/Debug/net6.0/ref/Algorithms.dll

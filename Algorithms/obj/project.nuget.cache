@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nv/zm+Zt+2Bpct0xi0dG+0oXOYGZZXfAuvU9F9CKdl7T0Bg8y83XSpmOB5WGAYpzalSUiGbJ2qRHXXacZlzMXA==",
+  "dgSpecHash": "GbF3UxXdsS1brO9v2+S1UEryNKmGH/EntUdeMXVEhgSWgaxCcIbZvRlUqqZQVwmARqYQFEhngcQvwBvbKGTHoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mural\\RiderProjects\\Algorithms\\Algorithms\\Algorithms.csproj",
+  "projectFilePath": "/home/mohan/Projects/Algorithms/Algorithms/Algorithms.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
