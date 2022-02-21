@@ -36,6 +36,22 @@ public class LinkedList
         }
     }
 
+    public void DeleteValue(int data)
+    {
+        if (head == null)
+        {
+            return;
+        }
+
+        var node = head;
+        while (node.next.data != data)
+        {
+            node = node.next;
+        }
+
+        node.next = node.next.next;
+    }
+
     public void PrintElements()
     {
         var node = head;
