@@ -52,6 +52,16 @@ public class LinkedList
         node.next = node.next.next;
     }
 
+    public void DeleteFirst()
+    {
+        if (head == null)
+        {
+            return;
+        }
+
+        head = head.next;
+    }
+
     public void PrintElements()
     {
         var node = head;

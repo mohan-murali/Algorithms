@@ -50,7 +50,13 @@ static class Program
 
         System.Console.WriteLine("with the deleted value");
         list2.DeleteValue(5);
+        list2.DeleteFirst();
 
+        list2.PrintElements();
+        System.Console.WriteLine("deleting first few values");
+        list2.DeleteFirst();
+        list2.DeleteFirst();
+        list2.DeleteValue(10);
         list2.PrintElements();
     }
 }
