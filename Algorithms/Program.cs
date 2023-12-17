@@ -59,11 +59,29 @@ static class Program
         // list2.DeleteValue(10);
         // list2.PrintElements();
 
-        var list = new DoublyLinkedList();
-        list.AddLast(1);
-        list.AddLast(2);
-        list.AddLast(3);
-        list.AddLast(4);
-        list.PrintElementInReverse();
+        // var list = new DoublyLinkedList();
+        // list.AddLast(1);
+        // list.AddLast(2);
+        // list.AddLast(3);
+        // list.AddLast(4);
+        // list.PrintElementInReverse();
+
+        var queue = new Queue<int>(10);
+        System.Console.WriteLine(queue.GetLength());
+        queue.Enqueue(20);
+        queue.Enqueue(9);
+        queue.Enqueue(6);
+        queue.Enqueue(15);
+
+        queue.PrintElements();
+
+        System.Console.WriteLine(queue.Dequeue());
+
+        queue.PrintElements();
+
+        System.Console.WriteLine(queue.GetLength());
+
+        System.Console.WriteLine(queue.Peek());
+
     }
 }
